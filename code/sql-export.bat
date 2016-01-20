@@ -1,0 +1,1 @@
+sqlcmd -S .\SQLEXPRESS -d twitterdb -E -Q "select replace(replace(Text,char(10),''), char(13), '') from TwitterTweets where CreatedBy='jaimenebotsaadi'" -o "H:\Downloads\datasets\twitter\tweets.txt" -h-1 -f 65001
