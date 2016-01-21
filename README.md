@@ -3,7 +3,7 @@ Twitter leader characterization project for Ecuador using unsupervised machine l
 
 For citations please use:
 
-@article{torres2015caracterizacion,
+@article{torres2015caracterizacion,  
   title={Caracterización de líderes políticos de Ecuador en Twitter usando aprendizaje de maquina no supervisado},
   author={Torres Johnny, Baquerizo Gabriela and Vaca Carmen},
   journal={Revista Tecnológica-ESPOL},
