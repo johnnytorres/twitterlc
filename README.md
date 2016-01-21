@@ -1,7 +1,6 @@
 # twitterlc
 Twitter leader characterization project for Ecuador using unsupervised machine learning
 
-
 For citations please use:
 
 @article{torres2015caracterizacion,
