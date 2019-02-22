@@ -1,5 +1,5 @@
 # twitterlc
-Twitter leader characterization project for Ecuador using unsupervised machine learning
+Twitter Leader Characterization project using unsupervised machine learning
 
 For citations please use:
 
